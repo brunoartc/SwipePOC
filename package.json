@@ -1,0 +1,16 @@
+{
+  "name": "swipe-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Bruno Arthur",
+  "license": "MIT",
+  "dependencies": {
+    "@swp/swipe-sdk": "^0.5.2",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
